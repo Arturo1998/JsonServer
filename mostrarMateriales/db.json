@@ -1,0 +1,53 @@
+{
+  "materiales": [
+    {
+      "SERIE": "1",
+      "MODELO": "Linux",
+      "RESERVADO": "Si",
+      "FECHA RESERVA\r": "13/03/2022\r",
+      "id": 1
+    },
+    {
+      "SERIE": "3",
+      "MODELO": "BlackMagic",
+      "RESERVADO": "No",
+      "FECHA RESERVA\r": "",
+      "id": 2
+    },
+    {
+      "SERIE": "2",
+      "MODELO": "Windows",
+      "RESERVADO": "No",
+      "FECHA RESERVA\r": "",
+      "id": 3
+    },
+    {
+      "SERIE": "4",
+      "MODELO": "Sony",
+      "RESERVADO": "Si",
+      "FECHA RESERVA\r": "13/09/2022\r",
+      "id": 4
+    },
+    {
+      "SERIE": "5",
+      "MODELO": "Canon",
+      "RESERVADO": "Si",
+      "FECHA RESERVA\r": "18/07/2018\r",
+      "id": 5
+    },
+    {
+      "SERIE": "6",
+      "MODELO": "Lumix",
+      "RESERVADO": "No",
+      "FECHA RESERVA\r": "",
+      "id": 6
+    },
+    {
+      "SERIE": "7",
+      "MODELO": "Younguo",
+      "RESERVADO": "Si",
+      "FECHA RESERVA\r": "30/11/2022",
+      "id": 7
+    }
+  ]
+}

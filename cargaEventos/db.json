@@ -1,0 +1,28 @@
+{
+  "eventos": [
+    {
+      "FECHA": "13/03/2022",
+      "DESCRIPCIÓN": "Entrevista Trabajo",
+      "UBICACIÓN\r": "Madrid\r",
+      "id": 1
+    },
+    {
+      "FECHA": "20/08/2022",
+      "DESCRIPCIÓN": "Comida Familiar",
+      "UBICACIÓN\r": "Ávila\r",
+      "id": 2
+    },
+    {
+      "FECHA": "20/09/2022",
+      "DESCRIPCIÓN": "Viaje Albania",
+      "UBICACIÓN\r": "Madrid\r",
+      "id": 3
+    },
+    {
+      "FECHA": "13/09/2022",
+      "DESCRIPCIÓN": "Aniversario",
+      "UBICACIÓN\r": "Malta",
+      "id": 4
+    }
+  ]
+}
